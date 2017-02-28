@@ -1,0 +1,43 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.5.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.7.1/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/5.1.1/bin/node" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://git.empdev.domo.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df93dfccdf9cdf92df92df9cdfcfdfcfdfc8df92df99df98df9fdfcfdf9fdfccdfc8df98df9adfcbdfcedf9bdfc8df9ddfccdf9cdf9cdf98df92dfc8df9adf99df9edf9fdf9fdf9edf9fdf99df9fdfc9</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="Development" />
+      <option name="repoName" value="apiLibrary" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+    <option name="ENCAPSULATE_FIELDS_USE_ACCESSORS_WHEN_ACCESSIBLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INLINE_METHOD_THIS" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
+  <component name="ToStringSettings">
+    <option name="insertNewMethodInitialOption" value="After equals() and hashCode()" />
+    <option name="insertNewMethodOption" value="After equals() and hashCode()" />
+  </component>
+</application>
