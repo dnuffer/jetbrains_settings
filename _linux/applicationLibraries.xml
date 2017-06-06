@@ -1,0 +1,47 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.5.2 virtualenv at ~/src/lienv interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5" />
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5/site-packages" />
+        <root url="file:///usr/lib/python3.5/site-packages" />
+        <root url="file:///usr/local/lib/python3.5/dist-packages" />
+        <root url="file:///usr/lib/python3/dist-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/-4245530" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5" />
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/src/lienv/lib/python3.5/site-packages" />
+        <root url="file:///usr/lib/python3.5/site-packages" />
+        <root url="file:///usr/local/lib/python3.5/dist-packages" />
+        <root url="file:///usr/lib/python3/dist-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/-4245530" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
