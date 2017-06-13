@@ -2,6 +2,7 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="shift help" />
+    <keyboard-shortcut first-keystroke="shift insert" />
   </action>
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
@@ -58,6 +59,7 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="shift help" />
+    <keyboard-shortcut first-keystroke="shift insert" />
   </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl n" />
