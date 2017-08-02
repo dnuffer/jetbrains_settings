@@ -126,6 +126,10 @@
       <option name="PATTERN" value="org.mockito.internal.creation.MethodInterceptorFilter" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.aop.support.AbstractBeanFactoryPointcutAdvisor" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
