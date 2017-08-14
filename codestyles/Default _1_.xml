@@ -5,6 +5,11 @@
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="RIGHT_MARGIN" value="150" />
   <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="scala.concurrent.ExecutionContext.Implicits.global" />
+      </array>
+    </option>
     <option name="PRIVATE_PROPERTY_TYPE_ANNOTATION" value="2" />
     <option name="PRIVATE_METHOD_TYPE_ANNOTATION" value="2" />
   </ScalaCodeStyleSettings>
