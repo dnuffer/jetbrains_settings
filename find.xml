@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[cv-management-domain] - .../cv-management-domain/src/main/java/com/lovelandinnovations/cv_management_domain/object_detection/labeling/LabelingMediaRepositoryImpl.java'" />
+    <option name="defaultScopeName" value="File '[cv-management-domain] - .../cv-management-domain/src/main/java/com/lovelandinnovations/cv_management_domain/object_detection/labeling/LabelingMediaRepositoryImpl.java'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
@@ -10,6 +10,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[cv-management-domain] - .../cv-management-domain/src/main/java/com/lovelandinnovations/cv_management_domain/object_detection/labeling/LabelingMediaRepositoryImpl.java'" />
   </component>
 </application>
