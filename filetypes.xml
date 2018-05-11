@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="Dockerfile.tfs-model" type="Dockerfile" />
       <mapping pattern="Dockerfile.tensorflow-object-detection" type="Dockerfile" />
       <mapping pattern="Dockerfile.tfs-gpu" type="Dockerfile" />
     </extensionMap>
