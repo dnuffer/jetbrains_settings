@@ -1,6 +1,11 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Compare.SameVersion">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicateLines" />
   <action id="EditorMatchBrace" />
   <action id="FileChooser.TogglePathShowing" />
@@ -27,6 +32,7 @@
   </action>
   <action id="Print" />
   <action id="Scala.ShowImplicitParameters" />
+  <action id="Scala.RunConsole" />
   <action id="ShowContent" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -43,4 +49,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Uml.ShowDiff" />
 </keymap>
