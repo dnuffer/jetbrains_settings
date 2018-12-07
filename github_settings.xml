@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="dan.nuffer" />
-    <option name="HOST" value="https://git.empdev.domo.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
-  </component>
-</application>
